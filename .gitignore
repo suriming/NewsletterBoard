@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+.DS_Store
+=======
 # Created by https://www.toptal.com/developers/gitignore/api/python,jupyternotebooks,macos
 # Edit at https://www.toptal.com/developers/gitignore?templates=python,jupyternotebooks,macos
 
@@ -208,3 +211,5 @@ cython_debug/
 #.idea/
 
 # End of https://www.toptal.com/developers/gitignore/api/python,jupyternotebooks,macos
+>>>>>>> 924c05572c39ea35daeedb08c3951bc9a87bf9e1
+.DS_Store
