@@ -1,0 +1,20 @@
+.title {
+  color: white;
+  font-size: 4vh;
+  font-family: "ChosunNm";
+}
+
+@font-face {
+  font-family: ChosunNm;
+  src: url("ChosunNm.ttf") format("truetype");
+}
+
+.content::after {
+  clear: both;
+  display: block;
+  content: "";
+}
+.content .item {
+  float: left;
+  text-align: center;
+}
